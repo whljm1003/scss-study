@@ -57,7 +57,7 @@
 
 - [x] Variables
 - [x] Nesting
-- [ ] Partials
+- [x] Partials
 - [ ] Mixins
 - [ ] Extend
 - [ ] Responsive Mixins
